@@ -2,6 +2,10 @@
 
 A data-driven dashboard that aggregates and analyzes remote job listings from We Work Remotely using Python, BeautifulSoup, Pandas, and Streamlit.
 
+Live Demo
+
+🔗 Dashboard: https://remote-job-aggregator-u5bgdb7vrzi6nqmzfu5nxt.streamlit.app/
+
 ## Overview
 
 This project scrapes remote job listings, cleans and analyzes the data, and presents insights through an interactive Streamlit dashboard.
