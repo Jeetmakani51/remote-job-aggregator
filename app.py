@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\makan\job_aggregator\jobs.csv")
+df = pd.read_csv(r"jobs.csv")
 
 st.header("Remote job Dashboard")
 st.write("Explore remote jobs scraped from WeWorkRemotely")
